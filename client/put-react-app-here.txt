@@ -1,0 +1,11 @@
+my proposed project structure:
+
+
+team-one-dms >
+
+	client >
+		dms-react >
+			<react code>
+	server >
+		dms >
+			<java code>
